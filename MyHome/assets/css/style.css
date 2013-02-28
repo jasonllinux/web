@@ -35,3 +35,14 @@ a:hover {
     /*clear:both;*/
 /*}*/
 
+
+/*.ChineseName {*/
+    /*font-family: 楷体, Cambria, Serif, Sans-serif, sans-serif, Verdana, Arial, Helvetica;*/
+    /*font-size: 28pt;*/
+    /*font-weight: bolder;*/
+/*}*/
+.EnglishName {
+    font-family:'Oregano', cursive, Serif, Sans-serif, sans-serif, Verdana, Arial, Helvetica;
+    font-size: 24pt;
+    font-weight: bolder;
+}
