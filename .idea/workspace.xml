@@ -2,11 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\web-apollo\css\simple.css" afterPath="$PROJECT_DIR$/web-apollo/css/style.css" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\css\bootstrap.css" afterPath="$PROJECT_DIR$/MyHome/assets/css/bootstrap.css" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\css\bootstrap.min.css" afterPath="$PROJECT_DIR$/MyHome/assets/css/bootstrap.min.css" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\css\style.css" afterPath="$PROJECT_DIR$/MyHome/assets/css/style.css" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\img\code_yuan.jpg" afterPath="$PROJECT_DIR$/MyHome/assets/img/code_yuan.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\img\glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/MyHome/assets/img/glyphicons-halflings-white.png" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\img\glyphicons-halflings.png" afterPath="$PROJECT_DIR$/MyHome/assets/img/glyphicons-halflings.png" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\js\bootstrap.js" afterPath="$PROJECT_DIR$/MyHome/assets/js/bootstrap.js" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\js\bootstrap.min.js" afterPath="$PROJECT_DIR$/MyHome/assets/js/bootstrap.min.js" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\js\jquery.js" afterPath="$PROJECT_DIR$/MyHome/assets/js/jquery.js" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\assets\js\script.js" afterPath="$PROJECT_DIR$/MyHome/assets/js/script.js" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\img\my4.jpg" afterPath="$PROJECT_DIR$/MyHome/img/my4.jpg" />
+      <change type="MOVED" beforePath="C:\Users\Jason\WebstormProjects\Web\我的主页\index.html" afterPath="$PROJECT_DIR$/MyHome/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-apollo/index.html" afterPath="$PROJECT_DIR$/web-apollo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-apollo/member.html" afterPath="$PROJECT_DIR$/web-apollo/member.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web-apollo/tobe.html" afterPath="$PROJECT_DIR$/web-apollo/tobe.html" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -83,46 +91,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/我的主页/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyHome/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="28" selection-start="3232" selection-end="3232" vertical-scroll-proportion="-57.035713">
+            <state line="42" column="25" selection-start="1540" selection-end="1545" vertical-scroll-proportion="0.953405">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-apollo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="48" selection-start="462" selection-end="462" vertical-scroll-proportion="0.24970132">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/我的主页/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="11" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web-apollo/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="80" column="19" selection-start="1009" selection-end="1025" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/我的主页/assets/css/bootstrap.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="14" column="53" selection-start="495" selection-end="541" vertical-scroll-proportion="-9.5">
               <folding />
             </state>
           </provider>
@@ -202,6 +183,24 @@
               <option name="myItemId" value="Web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyHome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-apollo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -251,7 +250,11 @@
       <created>1362049874311</created>
       <updated>1362049874311</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="some change">
+      <created>1362050017219</created>
+      <updated>1362050017219</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -351,37 +354,37 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/我的主页/assets/css/bootstrap.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web-apollo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="19" selection-start="1009" selection-end="1025" vertical-scroll-proportion="0.0">
+        <state line="80" column="19" selection-start="1009" selection-end="1025" vertical-scroll-proportion="0.4977221">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/我的主页/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="11" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0">
+        <state line="15" column="11" selection-start="178" selection-end="178" vertical-scroll-proportion="0.32460135">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/我的主页/index.html">
+    <entry file="file://$PROJECT_DIR$/MyHome/assets/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="28" selection-start="3232" selection-end="3232" vertical-scroll-proportion="-57.035713">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.1745665">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-apollo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="48" selection-start="462" selection-end="462" vertical-scroll-proportion="0.24970132">
+        <state line="14" column="53" selection-start="495" selection-end="541" vertical-scroll-proportion="-9.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyHome/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="25" selection-start="1540" selection-end="1545" vertical-scroll-proportion="0.953405">
           <folding />
         </state>
       </provider>
