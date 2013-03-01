@@ -7,34 +7,29 @@ h4
     font-size: 120% ;
 }
 
-p{text-indent: 2em;
-
+p{
+    text-indent: 2em;
 }
 
+a {
+    text-decoration: none;
+    /*display: block;*/
+    /*padding: 0.3em;*/
+    color: #000000;
+}
 
 a:visited {
-    color: ;
+    color: #000000; //TODO 原来是空的
 }
 
 a:link {
     text-decoration: none;
 
 }
-a {
 
-    text-decoration: none;
-    /*display: block;*/
-    /*padding: 0.3em;*/
-    color: #000000;
-}
 a:hover {
     color: #800000;
 }
-/*.href-content  {*/
-    /*text-decoration: nono;*/
-    /*clear:both;*/
-/*}*/
-
 
 /*.ChineseName {*/
     /*font-family: 楷体, Cambria, Serif, Sans-serif, sans-serif, Verdana, Arial, Helvetica;*/
@@ -47,9 +42,25 @@ a:hover {
     font-weight: bolder;
 }
 
+#container {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%; /*IE6不识别min-height*/
+    position: relative;
+}
 
-#big {
+#content {
     width: 850px;
+    margin: 0 auto;
+    padding-bottom: 50px; /*等于footer的高度*/
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 50px; /*脚部的高度*/
+    clear: both;
 }
 
 hr {
@@ -57,3 +68,4 @@ hr {
     border-top: 2px solid #bbbbbb;
     height: 0;
 }
+

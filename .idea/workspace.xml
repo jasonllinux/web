@@ -81,28 +81,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MyHome/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="40" selection-start="5013" selection-end="5013" vertical-scroll-proportion="0.7417783">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-apollo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="13" selection-start="3523" selection-end="3523" vertical-scroll-proportion="2.0">
+            <state line="23" column="20" selection-start="728" selection-end="728" vertical-scroll-proportion="-0.4871795">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MyHome/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="34" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
+            <state line="114" column="34" selection-start="4197" selection-end="4197" vertical-scroll-proportion="0.5305882">
               <folding />
             </state>
           </provider>
@@ -111,7 +102,16 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web-apollo/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="106" column="0" selection-start="1364" selection-end="1438" vertical-scroll-proportion="0.0">
+            <state line="22" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="-6.08">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -140,9 +140,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-26" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1936" />
-    <option name="height" value="1050" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -175,7 +176,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -272,14 +272,15 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="preferences.keymap" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
@@ -348,7 +349,11 @@
       <created>1362109393582</created>
       <updated>1362109393582</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add footer">
+      <created>1362120339128</created>
+      <updated>1362120339128</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -372,7 +377,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-26" y="0" width="1936" height="1050" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -429,7 +434,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="jie shen to shenjie" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add footer" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -445,11 +450,40 @@
     <MESSAGE value="some change" />
     <MESSAGE value="change font" />
     <MESSAGE value="jie shen to shenjie" />
+    <MESSAGE value="Add footer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MyHome/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-apollo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="13" selection-start="3523" selection-end="3523" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="34" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-apollo/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="0" selection-start="1364" selection-end="1438" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="51" column="13" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0">
@@ -483,30 +517,37 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-2.1745665" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web-apollo/css/member.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web-apollo/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="0" selection-start="1364" selection-end="1438" vertical-scroll-proportion="0.0">
+        <state line="22" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="-6.08">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web-apollo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="13" selection-start="3523" selection-end="3523" vertical-scroll-proportion="2.0">
+        <state line="23" column="20" selection-start="728" selection-end="728" vertical-scroll-proportion="-0.4871795">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="34" selection-start="851" selection-end="851" vertical-scroll-proportion="0.0">
+        <state line="28" column="0" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="40" selection-start="5013" selection-end="5013" vertical-scroll-proportion="0.7417783">
+        <state line="114" column="34" selection-start="4197" selection-end="4197" vertical-scroll-proportion="0.5305882">
           <folding />
         </state>
       </provider>
