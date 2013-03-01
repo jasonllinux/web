@@ -42,6 +42,12 @@ a:hover {
     font-weight: bolder;
 }
 
+.EnglishFooter {
+    font-family:'Oregano', cursive, Serif, Sans-serif, sans-serif, Verdana, Arial, Helvetica;
+    font-size: 12pt;
+    font-weight: bolder;
+}
+
 #container {
     min-height: 100%;
     height: auto !important;
