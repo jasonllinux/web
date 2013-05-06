@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\Users\Jason\WebstormProjects\Web\MyHome\img\my4.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyHome/index.html" afterPath="$PROJECT_DIR$/MyHome/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1367823222769" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1367824702503" ignored="false" />
     <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1367823921772" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -100,7 +101,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyHome/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="0" selection-start="3964" selection-end="3964" vertical-scroll-proportion="0.8494118">
+            <state line="102" column="12" selection-start="3977" selection-end="3977" vertical-scroll-proportion="0.28470588">
               <folding />
             </state>
           </provider>
@@ -363,7 +364,11 @@
       <created>1367823246461</created>
       <updated>1367823246461</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="修改了内容 位置">
+      <created>1367824708495</created>
+      <updated>1367824708495</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -451,7 +456,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add footer" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改了内容 位置" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -469,16 +474,12 @@
     <MESSAGE value="change font" />
     <MESSAGE value="jie shen to shenjie" />
     <MESSAGE value="Add footer" />
+    <MESSAGE value="修改了内容 位置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web-apollo/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="319" selection-end="319" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="46" column="17" selection-start="838" selection-end="838" vertical-scroll-proportion="0.0" />
@@ -553,7 +554,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="0" selection-start="3964" selection-end="3964" vertical-scroll-proportion="0.8494118">
+        <state line="102" column="12" selection-start="3977" selection-end="3977" vertical-scroll-proportion="0.28470588">
           <folding />
         </state>
       </provider>
