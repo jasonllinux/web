@@ -7,8 +7,8 @@
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1374453763726" ignored="false" />
-    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1374454024556" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378196016829" ignored="false" />
+    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378196316890" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -100,16 +100,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyHome/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="75" selection-start="3018" selection-end="3018" vertical-scroll-proportion="0.34506088">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
+            <state line="69" column="8" selection-start="3003" selection-end="3003" vertical-scroll-proportion="0.5683356">
               <folding />
             </state>
           </provider>
@@ -177,7 +168,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -210,8 +200,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyHome" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -220,8 +229,8 @@
     <property name="options.lastSelected" value="preferences.updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShopDaddy" />
     <property name="FullScreen" value="true" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -347,7 +356,11 @@
       <created>1367824708495</created>
       <updated>1367824708495</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="修改了内容 位置">
+      <created>1374454061258</created>
+      <updated>1374454061258</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -371,7 +384,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -461,9 +474,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
@@ -533,14 +544,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="4" column="0" selection-start="103" selection-end="103" vertical-scroll-proportion="0.019379845" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="75" selection-start="3018" selection-end="3018" vertical-scroll-proportion="0.34506088">
+        <state line="69" column="8" selection-start="3003" selection-end="3003" vertical-scroll-proportion="0.5683356">
           <folding />
         </state>
       </provider>
