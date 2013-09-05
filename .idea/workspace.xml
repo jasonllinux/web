@@ -7,8 +7,8 @@
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378196016829" ignored="false" />
-    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378196316890" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378388306553" ignored="false" />
+    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378388860467" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -100,7 +100,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyHome/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="69" column="8" selection-start="3003" selection-end="3003" vertical-scroll-proportion="0.5683356">
+            <state line="67" column="0" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.4465494">
               <folding />
             </state>
           </provider>
@@ -168,6 +168,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -183,6 +184,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web-apollo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -220,7 +225,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,8 +233,8 @@
     <property name="options.lastSelected" value="preferences.updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShopDaddy" />
     <property name="FullScreen" value="true" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -360,7 +364,11 @@
       <created>1374454061258</created>
       <updated>1374454061258</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="添加了实习信息">
+      <created>1378196680900</created>
+      <updated>1378196680900</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -448,7 +456,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改了内容 位置" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加了实习信息" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -467,6 +475,7 @@
     <MESSAGE value="jie shen to shenjie" />
     <MESSAGE value="Add footer" />
     <MESSAGE value="修改了内容 位置" />
+    <MESSAGE value="添加了实习信息" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -549,7 +558,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyHome/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="8" selection-start="3003" selection-end="3003" vertical-scroll-proportion="0.5683356">
+        <state line="67" column="0" selection-start="3019" selection-end="3019" vertical-scroll-proportion="0.4465494">
           <folding />
         </state>
       </provider>
