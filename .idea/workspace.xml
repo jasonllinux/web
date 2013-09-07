@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/assets/img/about.jpg" afterPath="$PROJECT_DIR$/My_Home/assets/img/about.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/index.html" afterPath="$PROJECT_DIR$/My_Home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378561555786" ignored="false" />
-    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378391710627" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378562078973" ignored="false" />
+    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378562558075" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -100,10 +101,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="29" column="0" selection-start="1123" selection-end="1143" vertical-scroll-proportion="-18.125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/My_Home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="33" selection-start="331" selection-end="331" vertical-scroll-proportion="0.36">
+            <state line="33" column="62" selection-start="829" selection-end="829" vertical-scroll-proportion="0.62">
               <folding />
             </state>
           </provider>
@@ -137,6 +147,7 @@
         <option value="$PROJECT_DIR$/MyHome/homepage.html" />
         <option value="$PROJECT_DIR$/My_Home/homepage.html" />
         <option value="$PROJECT_DIR$/MyProfile/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/My_Home/index.html" />
       </list>
     </option>
   </component>
@@ -191,6 +202,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyProfile" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -410,7 +435,11 @@
       <created>1378561568375</created>
       <updated>1378561568375</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="减小图片大小">
+      <created>1378562081973</created>
+      <updated>1378562081973</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -441,7 +470,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.21923937" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28016937" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28016937" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.32743362" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -498,7 +527,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加了首页" />
+    <option name="LAST_COMMIT_MESSAGE" value="减小图片大小" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -520,6 +549,7 @@
     <MESSAGE value="添加了实习信息" />
     <MESSAGE value="修改简历链接" />
     <MESSAGE value="增加了首页" />
+    <MESSAGE value="减小图片大小" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -587,13 +617,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="0" selection-start="1123" selection-end="1143" vertical-scroll-proportion="0.5886333">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MyProfile/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="64" column="14" selection-start="1147" selection-end="1147" vertical-scroll-proportion="0.6520619">
@@ -606,9 +629,16 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="0" selection-start="1123" selection-end="1143" vertical-scroll-proportion="-18.125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/My_Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="331" selection-end="331" vertical-scroll-proportion="0.36">
+        <state line="33" column="62" selection-start="829" selection-end="829" vertical-scroll-proportion="0.62">
           <folding />
         </state>
       </provider>
