@@ -8,7 +8,7 @@
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378605211719" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378606612730" ignored="false" />
     <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378606534806" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -110,19 +110,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/My_Home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="23" selection-start="573" selection-end="573" vertical-scroll-proportion="0.48846677">
+            <state line="57" column="0" selection-start="1594" selection-end="1594" vertical-scroll-proportion="-35.625">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="62" column="4" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
+            <state line="67" column="4" selection-start="1027" selection-end="1027" vertical-scroll-proportion="1.2984496">
               <folding />
             </state>
           </provider>
@@ -457,7 +457,11 @@
       <created>1378605217160</created>
       <updated>1378605217160</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="字体调整&#10;">
+      <created>1378606617946</created>
+      <updated>1378606617946</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -545,7 +549,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加图片cap" />
+    <option name="LAST_COMMIT_MESSAGE" value="字体调整&#10;" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -569,6 +573,7 @@
     <MESSAGE value="增加了首页" />
     <MESSAGE value="减小图片大小" />
     <MESSAGE value="增加图片cap" />
+    <MESSAGE value="字体调整&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -646,16 +651,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/My_Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="4" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0">
+        <state line="57" column="0" selection-start="1594" selection-end="1594" vertical-scroll-proportion="-35.625">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/My_Home/index.html">
+    <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="23" selection-start="573" selection-end="573" vertical-scroll-proportion="0.48846677">
+        <state line="67" column="4" selection-start="1027" selection-end="1027" vertical-scroll-proportion="1.2984496">
           <folding />
         </state>
       </provider>
