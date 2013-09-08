@@ -16,6 +16,14 @@
 /*}*/
 
 
+
+
+body {
+    background-color: #d3b17d;
+    font-family: 'Port Lligat Sans', Times New Roman, Georgia, Serif;
+}
+
+
 #container {
     min-height: 100%;
     height: auto !important;
@@ -25,9 +33,6 @@
 }
 
 
-body {
-    background-color: #d3b17d;
-}
 
 
 #head {
@@ -55,6 +60,8 @@ body {
 
 #head_des {
     padding-bottom: 100px;
+
+    font-family: "Microsoft YaHei" ! important;
 }
 
 
