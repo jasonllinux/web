@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="blog-&gt;website">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My_Home/assets/img/hireme.jpeg" />
+    <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/assets/img/about.jpg" afterPath="$PROJECT_DIR$/My_Home/assets/img/about.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/index.html" afterPath="$PROJECT_DIR$/My_Home/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/assets/css/style.css" afterPath="$PROJECT_DIR$/My_Home/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379514102905" ignored="false" />
-    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379550590516" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379550755241" ignored="false" />
+    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379551852120" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -114,7 +113,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/My_Home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="8" selection-start="890" selection-end="890" vertical-scroll-proportion="0.6781915">
+            <state line="27" column="16" selection-start="724" selection-end="724" vertical-scroll-proportion="0.54">
               <folding />
             </state>
           </provider>
@@ -246,6 +245,28 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyProfile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -450,7 +471,11 @@
       <created>1378775580024</created>
       <updated>1378775580024</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary=" 修复了图片链接下划线问题">
+      <created>1379550760615</created>
+      <updated>1379550760615</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -477,6 +502,7 @@
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.21923937" order="1" side_tool="true" content_ui="tabs" />
@@ -490,7 +516,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -538,7 +563,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="blog-&gt;website" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 修复了图片链接下划线问题" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -564,6 +589,7 @@
     <MESSAGE value="增加图片cap" />
     <MESSAGE value="字体调整&#10;" />
     <MESSAGE value="blog-&gt;website" />
+    <MESSAGE value=" 修复了图片链接下划线问题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -650,7 +676,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/My_Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="8" selection-start="890" selection-end="890" vertical-scroll-proportion="0.6781915">
+        <state line="27" column="16" selection-start="724" selection-end="724" vertical-scroll-proportion="0.54">
           <folding />
         </state>
       </provider>
