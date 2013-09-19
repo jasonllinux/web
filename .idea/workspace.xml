@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyProfile/index.html" afterPath="$PROJECT_DIR$/MyProfile/index.html" />
+    <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="blog-&gt;website">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/My_Home/assets/img/hireme.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/index.html" afterPath="$PROJECT_DIR$/My_Home/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/assets/css/style.css" afterPath="$PROJECT_DIR$/My_Home/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378775403888" ignored="false" />
-    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378775461922" ignored="false" />
+    <file path="/Dummy.txt" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379514102905" ignored="false" />
+    <file path="/index.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379550590516" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/catalog.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/html5/xhtml5.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/relaxng.rng" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
@@ -27,7 +28,7 @@
     <file path="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/standardSchemas/XMLSchema-instance.xsd" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1365246517314" ignored="false" />
     <file path="/homepage.html" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378561191031" ignored="false" />
     <file path="/hp.css" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378560845306" ignored="false" />
-    <file path="/style.css" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1378606550199" ignored="false" />
+    <file path="/style.css" changelist="5825eea0-4d91-4e60-af44-d6be1b4c7c20" time="1379517222854" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,10 +102,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="100" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.3044655">
+            <state line="75" column="36" selection-start="3146" selection-end="3146" vertical-scroll-proportion="-0.625">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/My_Home/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="8" selection-start="890" selection-end="890" vertical-scroll-proportion="0.6781915">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="101" column="4" selection-start="1824" selection-end="1824" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -138,9 +157,9 @@
         <option value="$PROJECT_DIR$/MyHome/homepage.html" />
         <option value="$PROJECT_DIR$/My_Home/homepage.html" />
         <option value="$PROJECT_DIR$/MyProfile/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/My_Home/index.html" />
-        <option value="$PROJECT_DIR$/My_Home/assets/css/style.css" />
         <option value="$PROJECT_DIR$/MyProfile/index.html" />
+        <option value="$PROJECT_DIR$/My_Home/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/My_Home/index.html" />
       </list>
     </option>
   </component>
@@ -179,6 +198,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -243,53 +263,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My_Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="My_Home" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -304,6 +279,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/My_Home/assets/img" />
       <recent name="$PROJECT_DIR$/MyHome/assets/img" />
       <recent name="C:\Users\Jason\WebstormProjects\Web\MyHome\img" />
       <recent name="C:\Users\Jason\WebstormProjects\Web\MyHome\assets\img" />
@@ -470,7 +446,11 @@
       <created>1378609305439</created>
       <updated>1378609305439</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="blog-&gt;website">
+      <created>1378775580024</created>
+      <updated>1378775580024</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -500,7 +480,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.21923937" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28016937" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19548342" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.32743362" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -558,7 +538,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="字体调整&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="blog-&gt;website" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -583,6 +563,7 @@
     <MESSAGE value="减小图片大小" />
     <MESSAGE value="增加图片cap" />
     <MESSAGE value="字体调整&#10;" />
+    <MESSAGE value="blog-&gt;website" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -653,19 +634,23 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="36" selection-start="3146" selection-end="3146" vertical-scroll-proportion="-0.625">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="29" selection-start="798" selection-end="798" vertical-scroll-proportion="1.0852714" />
+        <state line="101" column="4" selection-start="1824" selection-end="1824" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/My_Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="13" selection-start="593" selection-end="593" vertical-scroll-proportion="0.14518318" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="100" selection-start="1781" selection-end="1781" vertical-scroll-proportion="0.3044655">
+        <state line="34" column="8" selection-start="890" selection-end="890" vertical-scroll-proportion="0.6781915">
           <folding />
         </state>
       </provider>

@@ -3,22 +3,25 @@
 body {
     background-color: #d3b17d;
     font-family: 'Port Lligat Sans', Times New Roman, Georgia, Serif;
+
 }
 
 
 #container {
     min-height: 100%;
     height: auto !important;
-    height: 100%; /*IE6不识别min-height*/
+    height: 100%;
+    /*IE6不识别min-height*/
     position: relative;
-    /*margin-bottom: 100px;*/
+    margin-bottom: 100px;
 }
 
 
 #head {
     width: 500px;
     margin: 50px auto;
-    padding-bottom: 50px; /*等于footer的高度*/
+    padding-bottom: 50px;
+    /*等于footer的高度*/
 }
 
 
@@ -32,27 +35,26 @@ body {
 }
 
 
-#head_name {
-    /*margin-bottom: 100px;*/
-    /*paddi-bottom: 50px;*/
-    /*padding-bottom: 50px;*/
-}
-
 #head_des {
     padding-bottom: 100px;
 
     font-family: "Microsoft YaHei" ! important;
 }
 
+p.chinese_font {
+    font-family: "Microsoft YaHei" ! important;
+}
+
 
 .pic_inner {
-    /*padding-left: 50px;*/
-    padding-right: 60px;
+
+    padding-right:50px;
     float: left;
 
 }
 
 
+ /*Pic Caption 文字居中*/
 .pic_cap p {
     /*visibility: hidden;*/
     text-align: center;
@@ -60,26 +62,43 @@ body {
 }
 
 
-img{
-    width:108px;height:108px; /*设置图像的长和宽*/
-    border-radius: 54px;/*设置图像圆角效果,在这里我直接设置了超过width/2的像素，即为圆形了*/
-    -webkit-border-radius: 54px;/*圆角效果：兼容webkit浏览器*/
+ img{
+    width:108px;height:108px;
+    /*设置图像的长和宽*/
+    border-radius: 54px;
+    /*设置图像圆角效果,在这里我直接设置了超过width/2的像素，即为圆形了*/
+    -webkit-border-radius: 54px;
+    /*圆角效果：兼容webkit浏览器*/
     -moz-border-radius:54px;
-    box-shadow: inset 0 -1px 0 #3333sf;/*设置图像阴影效果*/
+    box-shadow: inset 0 -1px 0 #3333sf;
+    /*设置图像阴影效果*/
     -webkit-box-shadow: inset 0 -1px 0 #3333sf;
     -webkit-transition: 0.4s;
     -webkit-transition: -webkit-transform 0.4s ease-out;
-    transition: transform 0.4s ease-out;/*变化时间设置为0.4秒(变化动作即为下面的图像旋转360读）*/
+    transition: transform 0.4s ease-out;
+    /*变化时间设置为0.4秒(变化动作即为下面的图像旋转360读）*/
     -moz-transition: -moz-transform 0.4s ease-out;
 }
 
 
 
-
-img:hover{/*设置鼠标悬浮在头像时的CSS样式*/
+/*设置鼠标悬浮在头像时的CSS样式*/
+.pic_inner img:hover{
     box-shadow: 0 0 10px #fff; rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
     -webkit-box-shadow: 0 0 10px #fff; rgba(255,255,255,.6), inset 0 0 20px rgba(255,255,255,1);
-    transform: rotateZ(360deg);/*图像旋转360度*/
+    transform: rotateZ(360deg);
     -webkit-transform: rotateZ(360deg);
     -moz-transform: rotateZ(360deg);
+}
+
+
+a {
+    border: 0 none;
+    text-decoration: none;
+    text-decoration-line: none;
+    /*a{TEXT-DECORATION:none;}*/
+    link:none;
+    visited:none;
+    hover:none;
+
 }
