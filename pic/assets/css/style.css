@@ -1,0 +1,40 @@
+body {
+
+    /*background-color: #d3b17d;*/
+    /*background-color: #d3b17d;*/
+}
+
+
+#pic_wall {
+
+    padding-top: 150px;
+
+
+    /*height: 300px;*/
+
+
+}
+
+
+
+.peopleCarouselImg img {
+    width: auto;
+    height: 600px;
+    max-height: 600px;
+}
+
+
+.carousel-inner > .item > img { margin: 0 auto; }
+
+
+
+.carousel-control {
+    /*height: 80px;*/
+    /*margin-top: 0;*/
+    /*font-size: 120px;*/
+    /*text-shadow: 0 0px 0px rgba(0,0,0,0);*/
+    /*text-shadow: 0 ;*/
+    /*background-color: transparent;*/
+    /*border: 0;*/
+    /*z-index: 10;*/
+}
