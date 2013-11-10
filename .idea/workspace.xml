@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-large-inverted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-large.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-medium-inverted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-medium.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-mini-inverted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-mini.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-small-inverted.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-small.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/file/resume_zh.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/css/semantic.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/js/semantic.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/MyProfile/img/photo.jpg" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/img/photo.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyProfile/index.html" afterPath="$PROJECT_DIR$/MyProfile/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/Galdeano-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/Oregano-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/Rufina-Regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_ui_demo/index.html" afterPath="$PROJECT_DIR$/semantic_ui_demo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" afterPath="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
@@ -106,7 +87,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/My_Home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="15" selection-start="803" selection-end="803" vertical-scroll-proportion="-14.08" vertical-offset="0" max-vertical-offset="2688">
+            <state line="22" column="15" selection-start="803" selection-end="803" vertical-scroll-proportion="-0.0" vertical-offset="352" max-vertical-offset="2688">
               <folding />
             </state>
           </provider>
@@ -115,7 +96,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="1" selection-start="801" selection-end="801" vertical-scroll-proportion="7.04" vertical-offset="464" max-vertical-offset="3360">
+            <state line="18" column="1" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="3360">
               <folding />
             </state>
           </provider>
@@ -124,7 +105,7 @@
       <file leaf-file-name="index_temp.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pic/index_temp.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="75" column="42" selection-start="3273" selection-end="3311" vertical-scroll-proportion="-48.0" vertical-offset="0" max-vertical-offset="2224">
+            <state line="75" column="42" selection-start="3273" selection-end="3311" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="2224">
               <folding />
             </state>
           </provider>
@@ -133,16 +114,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/semantic_ui_demo/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="193" column="0" selection-start="7866" selection-end="7866" vertical-scroll-proportion="0.63414633" vertical-offset="2672" max-vertical-offset="3328">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MyProfile/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="0" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1408">
+            <state line="41" column="25" selection-start="1162" selection-end="1162" vertical-scroll-proportion="-0.19541985" vertical-offset="784" max-vertical-offset="3456">
               <folding />
             </state>
           </provider>
@@ -151,7 +123,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="0" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1408">
+            <state line="80" column="19" selection-start="1336" selection-end="1336" vertical-scroll-proportion="0.0" vertical-offset="747" max-vertical-offset="1440">
               <folding />
             </state>
           </provider>
@@ -188,16 +160,16 @@
         <option value="$PROJECT_DIR$/pic/assets/style.css" />
         <option value="$PROJECT_DIR$/pic/assets/css/style.css" />
         <option value="$PROJECT_DIR$/pic/index.html" />
-        <option value="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" />
         <option value="$PROJECT_DIR$/MyProfile/index.html" />
         <option value="$PROJECT_DIR$/semantic_ui_demo/index.html" />
+        <option value="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="22" />
     <option name="width" value="1440" />
-    <option name="height" value="817" />
+    <option name="height" value="816" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -302,7 +274,51 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semantic_ui_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="file" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semantic_ui_demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,8 +358,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ShopDaddy" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -354,22 +370,14 @@
       <recent name="$PROJECT_DIR$/MyProfile/assets/resume" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/semantic_ui_demo/assets/fonts" />
       <recent name="$PROJECT_DIR$/semantic_ui_demo/assets/img" />
       <recent name="$PROJECT_DIR$/semantic_ui_demo/assests/img" />
       <recent name="$PROJECT_DIR$/semantic_ui_demo/assests/js" />
       <recent name="$PROJECT_DIR$/semantic_ui_demo/assests/fonts" />
-      <recent name="$PROJECT_DIR$/semantic_ui_demo/assests/css" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -378,6 +386,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -553,7 +569,11 @@
       <created>1383469218656</created>
       <updated>1383469218656</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="增加semantic ui 模板&#10;重构">
+      <created>1383660123134</created>
+      <updated>1383660123135</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -577,14 +597,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="817" extended-state="6" />
+    <frame x="0" y="22" width="1440" height="816" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928178" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32997763" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.21923937" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19513889" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19513889" sideWeight="0.6714443" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20769636" sideWeight="0.32743362" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -622,7 +642,8 @@
     <MESSAGE value=" 修复了图片链接下划线问题" />
     <MESSAGE value="修改简历 以及首页内容" />
     <MESSAGE value="修改profile内容" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改profile内容" />
+    <MESSAGE value="增加semantic ui 模板&#10;重构" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加semantic ui 模板&#10;重构" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -670,28 +691,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/My_Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="15" selection-start="803" selection-end="803" vertical-scroll-proportion="-14.08" vertical-offset="0" max-vertical-offset="2688">
+        <state line="22" column="15" selection-start="803" selection-end="803" vertical-scroll-proportion="0.0" vertical-offset="352" max-vertical-offset="2688">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pic/index_temp.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="42" selection-start="3273" selection-end="3311" vertical-scroll-proportion="-48.0" vertical-offset="0" max-vertical-offset="2224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MyProfile/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="0" selection-end="1391" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1408">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="1367" selection-end="1367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1408">
+        <state line="75" column="42" selection-start="3273" selection-end="3311" vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="2224">
           <folding />
         </state>
       </provider>
@@ -708,14 +715,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MyProfile/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="1" selection-start="801" selection-end="801" vertical-scroll-proportion="7.04" vertical-offset="464" max-vertical-offset="3360">
+        <state line="18" column="1" selection-start="801" selection-end="801" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="3360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyProfile/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="409" selection-end="409" vertical-scroll-proportion="0.6233766" vertical-offset="0" max-vertical-offset="1408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="19" selection-start="1336" selection-end="1336" vertical-scroll-proportion="0.0" vertical-offset="747" max-vertical-offset="1440">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/semantic_ui_demo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="193" column="0" selection-start="7866" selection-end="7866" vertical-scroll-proportion="0.63414633" vertical-offset="2672" max-vertical-offset="3328">
+        <state line="41" column="25" selection-start="1162" selection-end="1162" vertical-scroll-proportion="-0.19541985" vertical-offset="784" max-vertical-offset="3456">
           <folding />
         </state>
       </provider>
