@@ -1,0 +1,9 @@
+#! bin/sh
+
+REMOTE_USER=jpollo
+REMOTE_HOST=
+
+DIR=
+REMOTE_DIR=
+
+rsync -rcLv `pwd` $REMOTE_USER@REMOTE_HOST:$REMOTE_DIR
