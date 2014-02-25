@@ -2,55 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5825eea0-4d91-4e60-af44-d6be1b4c7c20" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/bak/pic/assets/css/bootstrap.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/bak/pic/assets/css/bootstrap.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/css/style.css" afterPath="$PROJECT_DIR$/bak/pic/assets/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/bak/pic/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/bak/pic/assets/fonts/glyphicons-halflings-regular.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/bak/pic/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/bak/pic/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/img/1.jpg" afterPath="$PROJECT_DIR$/bak/pic/assets/img/1.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/img/2.jpg" afterPath="$PROJECT_DIR$/bak/pic/assets/img/2.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/img/3.jpg" afterPath="$PROJECT_DIR$/bak/pic/assets/img/3.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/bak/pic/assets/js/bootstrap.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/bak/pic/assets/js/bootstrap.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/js/carousel.css" afterPath="$PROJECT_DIR$/bak/pic/assets/js/carousel.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/js/control.js" afterPath="$PROJECT_DIR$/bak/pic/assets/js/control.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/js/holder.js" afterPath="$PROJECT_DIR$/bak/pic/assets/js/holder.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/assets/js/jquery.js" afterPath="$PROJECT_DIR$/bak/pic/assets/js/jquery.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/index.html" afterPath="$PROJECT_DIR$/bak/pic/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pic/index_temp.html" afterPath="$PROJECT_DIR$/bak/pic/index_temp.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/css/semantic.min.css" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/css/semantic.min.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/file/resume_zh.pdf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/file/resume_zh.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/Galdeano-Regular.ttf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/Galdeano-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/Oregano-Regular.ttf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/Oregano-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/Rufina-Regular.ttf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/Rufina-Regular.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.eot" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/basic.icons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.svg" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/basic.icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.ttf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/basic.icons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/basic.icons.woff" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/basic.icons.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.eot" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/icons.eot" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.otf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/icons.otf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.svg" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/icons.svg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.ttf" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/icons.ttf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/fonts/icons.woff" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/fonts/icons.woff" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-large-inverted.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-large-inverted.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-large.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-large.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-medium-inverted.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-medium-inverted.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-medium.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-medium.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-mini-inverted.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-mini-inverted.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-mini.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-mini.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-small-inverted.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-small-inverted.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/img/loader-small.gif" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/img/loader-small.gif" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/assets/js/semantic.min.js" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/assets/js/semantic.min.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/semantic_ui_demo/index.html" afterPath="$PROJECT_DIR$/bak/semantic_ui_demo/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-apollo/css/member.css" afterPath="$PROJECT_DIR$/bak/web-apollo/css/member.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-apollo/css/style.css" afterPath="$PROJECT_DIR$/bak/web-apollo/css/style.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-apollo/img/rescue.jpg" afterPath="$PROJECT_DIR$/bak/web-apollo/img/rescue.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-apollo/index.html" afterPath="$PROJECT_DIR$/bak/web-apollo/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-apollo/member.html" afterPath="$PROJECT_DIR$/bak/web-apollo/member.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/web-apollo/tobe.html" afterPath="$PROJECT_DIR$/bak/web-apollo/tobe.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/index.html" afterPath="$PROJECT_DIR$/My_Home/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/My_Home/assets/css/style.css" afterPath="$PROJECT_DIR$/My_Home/assets/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="web.iws" />
@@ -131,7 +84,23 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/My_Home/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="81" column="35" selection-start="2522" selection-end="2522" vertical-scroll-proportion="1.6553134" vertical-offset="0" max-vertical-offset="2520">
+            <state line="61" column="16" selection-start="1994" selection-end="1994" vertical-scroll-proportion="0.32697546" vertical-offset="675" max-vertical-offset="2520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hireme.jpeg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/My_Home/assets/img/hireme.jpeg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="20" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1695">
               <folding />
             </state>
           </provider>
@@ -193,7 +162,6 @@
       <list>
         <option value="$PROJECT_DIR$/My_Home/homepage.html" />
         <option value="$PROJECT_DIR$/MyProfile/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/My_Home/assets/css/style.css" />
         <option value="$PROJECT_DIR$/pic/assets/js/control.js" />
         <option value="$PROJECT_DIR$/pic/assets/js/holder.js" />
         <option value="$PROJECT_DIR$/pic/assets/js/jquery.js" />
@@ -206,8 +174,9 @@
         <option value="$PROJECT_DIR$/MyProfile/index.html" />
         <option value="$PROJECT_DIR$/semantic_ui_demo/assets/css/style.css" />
         <option value="$PROJECT_DIR$/semantic_ui_demo/index.html" />
-        <option value="$PROJECT_DIR$/My_Home/index.html" />
         <option value="$PROJECT_DIR$/My_Home/profile/index.html" />
+        <option value="$PROJECT_DIR$/My_Home/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/My_Home/index.html" />
       </list>
     </option>
   </component>
@@ -334,6 +303,68 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="My_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="My_Home" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -578,7 +609,11 @@
       <created>1393304063667</created>
       <updated>1393304063667</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="增加bak目录&#10;">
+      <created>1393304200074</created>
+      <updated>1393304200074</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView" selected-index="2">
@@ -655,7 +690,8 @@
     <MESSAGE value="增加semantic ui 模板&#10;重构" />
     <MESSAGE value="修改三个google字体为本地" />
     <MESSAGE value="修改home结构&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改home结构&#10;" />
+    <MESSAGE value="增加bak目录&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加bak目录&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -786,11 +822,6 @@
         <state line="128" column="0" selection-start="2517" selection-end="2517" vertical-scroll-proportion="0.9613402" vertical-offset="0" max-vertical-offset="0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="31" selection-start="13" selection-end="39" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bak/pic/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="32" selection-start="75" selection-end="75" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="0" />
@@ -854,9 +885,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/My_Home/assets/img/hireme.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/My_Home/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="20" selection-start="670" selection-end="670" vertical-scroll-proportion="0.0" vertical-offset="435" max-vertical-offset="1695">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/My_Home/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="81" column="35" selection-start="2522" selection-end="2522" vertical-scroll-proportion="1.6553134" vertical-offset="0" max-vertical-offset="2520">
+        <state line="61" column="16" selection-start="1994" selection-end="1994" vertical-scroll-proportion="0.32697546" vertical-offset="675" max-vertical-offset="2520">
           <folding />
         </state>
       </provider>
